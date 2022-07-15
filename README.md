@@ -1,3 +1,3 @@
 # Hello World!
-Aprendendo Git/GitHub! <br>
-Branch de testes
+Aprendendo GIT e GITHUB! <br>
+Testando sistemas de branch e pull request!
